@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="template" client="site">
+	<name>space</name>
+	<version>Joomla 4.1.3</version>
+	<creationDate>29.06.2022</creationDate>
+	<author>Makariy</author>
+	<authorEmail>pereymak2012galina@yandex.ru</authorEmail>
+	<copyright>...</copyright>
+	<description>...</description>
+	<files>
+		<filename>index.html</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>js</folder>
+		<folder>css</folder>
+		<folder>images</folder>
+	</files>
+	<positions>
+    <position>header</position>
+    <position>main</position>
+	</positions>
+</extension>
